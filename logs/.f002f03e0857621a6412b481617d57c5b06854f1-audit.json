@@ -9,6 +9,16 @@
             "date": 1750785534201,
             "name": "c:\\Temp\\GIT\\Azure-Examples-AI-102\\logs\\mcp-puppeteer-2025-06-24.log",
             "hash": "e1969b8d2276dcbf7ebcda76a7f15eddf57ce998ad612ee34338aa422d03b2e1"
+        },
+        {
+            "date": 1751081179565,
+            "name": "c:\\Temp\\GIT\\Azure-Examples-AI-102\\logs\\mcp-puppeteer-2025-06-27.log",
+            "hash": "2c17a096449984e0085d193ea02790b797651571de231718d2bae58b224182b5"
+        },
+        {
+            "date": 1751291769172,
+            "name": "c:\\Temp\\GIT\\Azure-Examples-AI-102\\logs\\mcp-puppeteer-2025-06-30.log",
+            "hash": "5653e3ad73278c3adc93c378c741d6307f9b948b73a1e3d603e41039781be2bd"
         }
     ],
     "hashType": "sha256"

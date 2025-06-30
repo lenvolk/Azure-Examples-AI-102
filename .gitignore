@@ -1,2 +1,4 @@
 logs/*-audit.json
 logs/*.log
+logs/.*-audit.json
+logs/mcp-puppeteer-*.log.gz
