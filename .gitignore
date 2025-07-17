@@ -2,3 +2,5 @@ logs/*-audit.json
 logs/*.log
 logs/.*-audit.json
 logs/mcp-puppeteer-*.log.gz
+logs/mcp-puppeteer-2025-06-24.log
+logs/.*-audit.json
